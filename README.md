@@ -1,6 +1,5 @@
-# EdgeFolio - Next.js Theme
+# Wale Osborne Portfolio  
 
-[EdgeFolio](https://elegantstack.netlify.app/edgefolio-demo) - the fully-functional React Next.js Portfolio and Blog Theme for creative professionals. With its sleek design, powerful features, and lightning-fast performance, EdgeFolio will help you take your online presence to the next level. Whether you're a freelancer, a content creator, or a creative professional, this theme has you covered.
+[Wale Osborne Personal Portfolio](https://www.waleosborne.com) - a fully-functional React Next.js Portfolio and Blog Theme tailored for Wale Osborne. With a modern design, robust features, and optimized performance, this blog shares personal insights, experiences, and strategies to inspire and empower readers on their journey.  
 
-- [Live Demo](https://elegantstack.netlify.app/edgefolio-demo)
-- [Documentation](https://elegantstack.netlify.app/edgefolio)
+- [Live Website](https://www.waleosborne.com)  
