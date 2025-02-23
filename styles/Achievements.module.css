@@ -1,0 +1,27 @@
+/* styles/Achievements.module.css */
+/* ... (previous styles remain the same) */
+
+.achievements {
+    margin-bottom: 2rem;
+  }
+  
+  /* Optional: Ensure the History component blends with the page */
+  .history-section {
+    padding: 1rem 0;
+  }
+  
+  .history-section h3 {
+    font-size: 1.8rem;
+    color: #b8860b; /* Gold */
+    margin-bottom: 0.5rem;
+  }
+  
+  .history-section .flex {
+    align-items: flex-start;
+    margin-bottom: 1rem;
+  }
+  
+  .history-section small {
+    font-size: 0.9rem;
+    color: #666;
+  }

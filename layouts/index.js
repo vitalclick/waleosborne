@@ -2,6 +2,7 @@ import dynamic from 'next/dynamic'
 
 const layouts = {
   About: dynamic(() => import(`@/layouts/About`)),
+  Achievements: dynamic(() => import(`@/layouts/Achievements`)),
   Contact: dynamic(() => import(`@/layouts/Contact`)),
   Services: dynamic(() => import(`@/layouts/Services`)),
   Home: dynamic(() => import(`@/layouts/Home`)),

@@ -8,120 +8,85 @@ seo:
 
 
 ---personal_info
-name: CARL HANSON
+name: WALE OSBORNE
 images:
   - src: /about.jpg
     alt: my image
 ---
 ##### <span>01.</span> About me
 
-Lorem consequat reprehenderit ipsum nulla qui pariatur tempor officia ad. Excepteur excepteur pariatur ad laborum labore reprehenderit. Do eiusmod sit pariatur nisi. Quis non dolor amet magna eu adipisicing est ex.
+Global Business Advisor and Investment Strategist, known for thought-provoking Business Leadership and Organisational Development interventions and working with leaders and executives of multinational organizations globally through my expertise with comprehensive insights of irreversible tilt of the global economy reaching three decades.
 
-##### <span>02.</span> Interests and Hobbies
+He has the complex knowledge and intellectual discernment of the significant economic power shift of the global business changing environment in turning challenges into real-time value addition for all concerned Stakeholders.
 
-Ad Lorem et amet exercitation enim culpa nulla laboris eu eiusmod. Irure fugiat sunt esse consequat consectetur eu laboris voluptate eiusmod dolor. Nisi velit consectetur deserunt esse aliquip esse officia consequat eiusmod voluptate cupidatat id.
+Resourceful Competencies include Blockchain Technology, Artificial Intelligence, Machine Learning, Robotic Process Automation and 4IR, Management & Forensic Services, Due Diligence and Investment Research Services, Private Equity Valuation & Transaction Advisory, Strategy Consultancy, Capital Structure Optimization, and Value Enhancement.
 
-##### <span>03.</span> Framework Preferences
+Ingenious Entrepreneur and Strategist Certification in Executive Development Programme, Post Graduate Diploma in Business Administration and Master of Global Business Leadership, Certified Coach and Management Consultant, Graduate School of Business Leadership - University of South Africa/Universiteit van Suid-Afrika.
 
-Ullamco cillum pariatur qui eu. Aliqua quis in adipisicing nulla do. Reprehenderit cupidatat eiusmod cupidatat ut ipsum pariatur Lorem incididunt. Veniam sunt reprehenderit consectetur ullamco laborum magna sit aliquip minim esse.
+Master of Global Business Leadership (EDP, PGD, MBL, CMC). Barret Certified Consultant & Coach, SAIBA Business Accountant in Practice (SA), Institute of Directors (S.A). Institute of Retirement Funds Africa (Trustee & Corporate) and Professional Member, Integrated Management System ISO 9001: 2015, ISO 14001:2015, ISO 45001:2018. Quality Management System Lead Auditor Incorporating ISO 19011: 2018 & ISO /IEC 17021: 2015.
+Services
 
 
 
 ---cta
 ---
-## Ready to discuss your project?
+## Let’s Connect and Collaborate?
 
-Let's super-charge your business today!
+Reach out today and let’s start a conversation about how we can achieve your goals together!
 
 <Button href="/contact">
-  Get a Free Price Quote
+  Let's Get you started
 </Button>
 
 
 
 ---skills_header
-title: I'm Specialized in
+title: My Professional Identity
 list:
-  - Front-End Design
-  - Back-End Development
-  - Modern Frameworks
+  - Entrepreneur
+  - Investor
+  - Advisor
+  - Strategist
+  - Leadership Coach
 ---
 
 
 
----skills[0]
-title: Back-End Development
-list:
-  - title: Node.js
-    level: 1
-    icon:
-      src: /icons/nodedotjs.svg
-  - title: Prisma
-    level: 3
-    icon:
-      src: /icons/prisma.svg
-  - title: Svelte
-    level: 4
-    icon:
-      src: /icons/svelte.svg
-  - title: HTML5
-    level: 5
-    icon:
-      src: /icons/html5.svg
-  - title: Solidity
-    level: 2
-    icon:
-      src: /icons/solidity.svg
----
 
 
 
----skills[1]
-########################################
-### Skills
-########################################
-title: Front-End UI/UX Design
-list:
-  - title: JavaScript
-    level: 4
-    icon:
-      src: /icons/javascript.svg
-  - title: React
-    level: 3
-    icon:
-      src: /icons/react.svg
-  - title: Redux
-    level: 4
-    icon:
-      src: /icons/redux.svg
-  - title: GraphQL
-    level: 2
-    icon:
-      src: /icons/graphql.svg
-  - title: Node.js
-    level: 4
-    icon:
-      src: /icons/nodedotjs.svg
-  - title: Prisma
-    level: 5
-    icon:
-      src: /icons/prisma.svg
----
+
+
 
 
 
 ---history[0]
-title: Employment
+title: Experience
 list:
-  - name: MetaVerse Inc.
-    description: Web3 Developer
-    date: 2020-Present
-  - name: Vircil Intl Co..
-    description: Back-End Developer and Designer
-    date: 2018-2020
-  - name: Crowdcube Inc.
-    description: Technical Support
-    date: 2018-2015
+  - name: WALEOSB GROUP
+    description: Founder & Chief Executive Officer
+    date: Jul 2024 - Present
+  - name: Barrett Values Centre
+    description: Certified Consultant and Coach at Barrett Values Centre 
+    date: Aug 2010 - Present
+  - name: United Africa Blockchain Association
+    description: Member of The Board of Advisors, UABA
+    date: Jan 2019 - Present
+  - name: Waleosb Trading 
+    description: Founder & Chief Investment Officer
+    date: May 2003 - Present
+  - name: Waleosb Investment Holding 
+    description: Founder & Principal Partner
+    date: Jul 2014 - Present
+  - name: LETAGO CONSULTING 
+    description: Founder & President
+    date: Feb 2008 - Present
+  - name: OMEGA SA PROPERTY INVESTMENTS 
+    description: Founder & Chief Investment Officer
+    date: Oct 2013 - Present
+  - name: Government of Ekiti State, Nigeria
+    description: Chief Of Staff to the Commissioner of Commerce, Trade, Investment & Industries
+    date: Jan 1996 - May 1999
 ---
 
 
@@ -129,13 +94,28 @@ list:
 ---history[1]
 title: Education
 list:
-  - name: Stanford university
-    description: MSc (Computer Science)
-    date: 2006-2010
-  - name: University of Los Angeles
-    description: MSc (Human Computer Interaction)
-    date: 2010-2014
-  - name: Berkeley University
-    description: MSc (Information Technology)
-    date: 2015-2019
+  - name: Hult International Business School 
+    description:  Doctorate in Business Administration (DBA) 
+    date: 2023 - Present
+  - name: University of South Africa
+    description: Bachelor of Commerce in Law (BCom Law) Law and commerce, including economics, business management, and accounting sciences
+    date: 2020-2023
+  - name: University of the Free State
+    description: Advanced Diploma in Estate and Trust Administration (ADETA)
+    date: 2019-2020
+  - name: University of South Africa
+    description: Master of Business Leadership Graduate School of Global Business Leadership
+    date: 2018 - 2019
+  - name: University of the Free State
+    description: Advanced Diploma in Estate and Trust Administration (ADETA)
+    date: 2015-2016
+  - name: University of South Africa
+    description: Post Graduate Diploma in Business Administration Graduate School of Global Business Leadership
+    date: 2017 - 2018
+  - name: University of South Africa
+    description: Certificate in Executive Development Programme in Global Business Leadership Graduate School of Global Business Leadership
+    date: 2012 - 2014
+  - name: The Federal Polytechnic, Ado-Ekiti
+    description: National Diploma in Financial Management School of Business Studies
+    date: 1994 - 1997
 ---

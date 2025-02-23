@@ -22,7 +22,7 @@ const themes = [
 
 const ThemeSwitcher = ({ setTheme }) => {
   return (
-    <div className="group fixed left-2 top-1/2 z-50 hidden -translate-y-1/2 space-y-1 lg:left-8 lg:block">
+    <div className="group fixed left-2 top-1/2 z-50 hidden -translate-y-1/2 space-y-1"> {/* Remove lg:block */}
       <HiOutlineColorSwatch className="h-5 w-5 text-omega-500 group-hover:text-omega-100" />
       {themes.map(({ name, switchBg }) => (
         <div

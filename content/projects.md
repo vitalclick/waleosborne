@@ -1,7 +1,7 @@
 ---
-layout: Projects
+layout: Achievements
 seo:
-  title: Web Development Projects
+  title: Licenses & Certifications
   description: Custom description for this page goes here
 ---
 
@@ -12,22 +12,16 @@ repositories:
   - vercel/og-image
 ---
 
-<PageTitle>
-  ### My Open-Source Projects
-</PageTitle>
-
-Discover my most popular open-source projects on Github.
 
 
-
----projects
+---achievements
 collection:
   path: /projects
   sortBy: date
 ---
 
 <PageTitle>
-  ### Latest Projects
+  ### Achievements
 </PageTitle>
 
 I have transformed ideas into remarkable digital products.

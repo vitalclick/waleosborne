@@ -13,21 +13,21 @@ seo:
 <PageTitle>
   ### Get in touch
 
-  ### _Let's talk about your project_
+  ### _Let’s Build Your Vision Together_
 </PageTitle>
 
-Thinking about a new project, a problem to solve, or just want to connect? Let's do it!
+Have a challenge to overcome, a goal to achieve, or a strategy to refine? Let’s collaborate.
 
-Use the form on this page or get in touch by other means.
+Use the form to initiate a partnership that drives success and transforms possibilities into reality.
 
 <Sep size="12" />
 
 <small>
-  <Icon src="/icons/call.svg" className="inline mr-2 align-middle fill-current text-omega-500" /> Phone: (888) 777-6666
+  <Icon src="/icons/call.svg" className="inline mr-2 align-middle fill-current text-omega-500" /> Phone: +1 415 779 0257 
 
-  <Icon src="/icons/mail.svg" className="mr-2 inline align-middle fill-current text-omega-500" /> Email: hello@carl.io
+  <Icon src="/icons/mail.svg" className="mr-2 inline align-middle fill-current text-omega-500" /> Email: hello@waleosborne.com
 
-  <Icon src="/icons/logo-linkedin.svg" className="mr-2 inline align-middle fill-current text-omega-500" /> Linkedin: [CarlHanson](http://linkedin.com/vercel)
+  <Icon src="/icons/logo-linkedin.svg" className="mr-2 inline align-middle fill-current text-omega-500" /> Linkedin: ['Wale Osborne](https://www.linkedin.com/in/olawale-osborne-oderinde)
 
-  <Icon src="/icons/logo-twitter.svg" className="mr-2 inline align-middle fill-current text-omega-500" /> Twitter: [@CarlHanson](http://twitter.com/vercel)
+  <Icon src="/icons/logo-twitter.svg" className="mr-2 inline align-middle fill-current text-omega-500" /> Twitter: [@WaleOsborne](https://x.com/WaleOsborne)
 </small>

@@ -57,6 +57,30 @@
             "value": "Canada"
           },
           {
+            "label": "South Africa",
+            "value": "South Africa"
+          },
+          {
+            "label": "United Kingdom",
+            "value": "United Kingdom"
+          },
+          {
+            "label": "Australia",
+            "value": "Australia"
+          },
+          {
+            "label": "Kenya",
+            "value": "Kenya"
+          },
+          {
+            "label": "Nigeria",
+            "value": "Nigeria"
+          },
+          {
+            "label": "China",
+            "value": "China"
+          },
+          {
             "label": "Germany",
             "value": "Germany"
           },
@@ -69,65 +93,63 @@
     ]
   },
   {
-    "legend": "What services do you need for your project?",
-    "columns": 3,
-    "fields": [
-      {
-        "type": "checkbox",
-        "name": "project-type[Website Development]",
-        "label": "Website Development"
-      },
-      {
-        "type": "checkbox",
-        "name": "project-type[App Development]",
-        "label": "App Development"
-      },
-      {
-        "type": "checkbox",
-        "name": "project-type[Design System]",
-        "label": "Design System"
-      },
-      {
-        "type": "checkbox",
-        "name": "project-type[Website Migration]",
-        "label": "Website Migration"
-      },
-      {
-        "type": "checkbox",
-        "name": "project-type[E-commerce Site]",
-        "label": "E-commerce Site"
-      },
-      {
-        "type": "checkbox",
-        "name": "project-type[Performance Evaluation]",
-        "label": "Performance Evaluation"
-      }
-    ]
+    "legend": "How can we support your organization's growth and transformation?",
+"columns": 3,
+"fields": [
+  {
+    "type": "checkbox",
+    "name": "project-type[Business Consulting]",
+    "label": "Business Consulting"
   },
   {
-    "legend": "How much is the anticipated budget?",
-    "columns": 3,
-    "fields": [
-      {
-        "type": "radio",
-        "name": "budget",
-        "value": "Less than $2,000",
-        "label": "Less than $2,000"
-      },
-      {
-        "type": "radio",
-        "name": "budget",
-        "value": "$2,000 - $10,000",
-        "label": "$2,000 - $10,000"
-      },
-      {
-        "type": "radio",
-        "name": "budget",
-        "value": "More than $10,000",
-        "label": "More than $10,000"
-      }
-    ]
+    "type": "checkbox",
+    "name": "project-type[Change Management]",
+    "label": "Change Management"
   },
+  {
+    "type": "checkbox",
+    "name": "project-type[Corporate Training]",
+    "label": "Corporate Training"
+  },
+  {
+    "type": "checkbox",
+    "name": "project-type[Executive Coaching]",
+    "label": "Executive Coaching"
+  },
+  {
+    "type": "checkbox",
+    "name": "project-type[Financial Advisory]",
+    "label": "Financial Advisory"
+  },
+  {
+    "type": "checkbox",
+    "name": "project-type[IT Consulting]",
+    "label": "IT Consulting"
+  },
+  {
+    "type": "checkbox",
+    "name": "project-type[Leadership Development]",
+    "label": "Leadership Development"
+  },
+  {
+    "type": "checkbox",
+    "name": "project-type[Life Coaching]",
+    "label": "Life Coaching"
+  },
+  {
+    "type": "checkbox",
+    "name": "project-type[Management Consulting]",
+    "label": "Management Consulting"
+  },
+  {
+    "type": "checkbox",
+    "name": "project-type[Wealth Management]",
+    "label": "Wealth Management"
+  }
+]
+
+  },
+ 
   {
     "legend": "Tell me about your project",
     "columns": 1,

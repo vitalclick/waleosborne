@@ -13,52 +13,50 @@ images:
     alt: my photo
 ---
 
-# <Typewriter>Carl Hanson</Typewriter>
+# <Typewriter>Wale Osborne</Typewriter>
 
-# *Web Developer* <span>&</span> *Growth Consultant*
+# *Entrepreneur, Investor* <span>&</span> *Business Coach*
 
 <Sep size={12} />
 
-Sometimes five Imprimaturs are seen together dialogue-wise in the
-piazza of one title-page, complimenting and ducking each to other with
-their shaven reverences, whether the author, who stands by in
-perplexity at the foot of his epistle, shall to the press or to the
-sponge.
+Global Business Advisor and Investment Strategist, known for thought-provoking Business Leadership and Organisational Development interventions and working with leaders and executives of multinational organizations globally through my expertise with comprehensive insights of irreversible tilt of the global economy reaching three decades.
 
 
 
 ---achievements
-- number: 6+
-  text: Years of experience
-- number: 60+
-  text: Projects Completed
-- number: 5
-  text: OpenSource Libraries
+- number: 30+
+  text: Years of Global Leadership Experience
+- number: 100+
+  text: Strategic Projects Delivered
+- number: 10+
+  text: Industry Certifications and Recognitions
+- number: 50+
+  text: Collaborations with Fortune 500 Companies
 ---
 
 
 
 ---cta
 ---
-<Button href="/contact" size="lg">
-  Download Resume
+<Button href="/about" size="lg">
+  Check Full Profile
 </Button>
 
 
 
 ---companies
-title: Trusted By
+title: Notable Partners
 list:
   - name: Company 1
     icon:
-      src: /icons/logo-1.svg
+      src: /icons/bvc2.svg
+  - name: Company 1
+    icon:
+      src: /icons/uaba.svg
   - name: Company 2
     icon:
-      src: /icons/logo-3.svg
+      src: /icons/mictseta2.svg
   - name: Company 3
     icon:
-      src: /icons/logo-3.svg
-  - name: Company 4
-    icon:
-      src: /icons/logo-4.svg
+      src: /icons/IODSA.svg
 ---

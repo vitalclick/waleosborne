@@ -12,7 +12,7 @@ collection:
 
 ### Latest Articles
 
-A few handcrafted articles about my thoughts and experiments.
+Discover curated articles sharing my perspectives, experiences, and expertise in leadership and innovation.
 
 
 
@@ -24,4 +24,4 @@ collection:
 
 ### Categories
 
-<small>I write about web development and modern JavaScript frameworks.</small>
+<small>Explore insights, strategies, and transformative ideas across Life Coaching, Leadership, Wealth Management, IT Consulting, and more. Whether you're seeking personal growth, business solutions, or leadership development, this is your resource for inspiration and expertise.</small>

@@ -9,7 +9,7 @@ seo:
 slogan: Trusted By Fortune 500 Companies
 ---
 
-# *Carl Hanson*
+# *Wale Osborne*
 
 ## <Typewriter>Full-Stack Developer</Typewriter>
 
