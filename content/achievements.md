@@ -2,7 +2,7 @@
 layout: Achievements
 seo:
   title: Achievements
-  description: Custom description for this page goes here
+  description: A track record of excellence in business leadership, organizational development, and investment strategy, marked by impactful contributions.
 ---
 
 

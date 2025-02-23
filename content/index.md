@@ -1,8 +1,8 @@
 ---
 layout: Home
 seo:
-  title: Web Developer
-  description: Custom description for this page goes here
+  title: Wale Osborne
+  description: Entrepreneur | Investor | Advisor (Business Coach) | Strategist | Identity Leadership Coach
 ---
 
 ---main

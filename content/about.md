@@ -1,8 +1,8 @@
 ---
 layout: About
 seo:
-  title: About Me
-  description: Custom description for this page goes here
+  title: About Wale Osborne
+  description: Learn more about Wale Osborne, a seasoned business leader, investor, and identity leadership coach with decades of experience empowering organizations and individuals to achieve their goals.
 ---
 
 

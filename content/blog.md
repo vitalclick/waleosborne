@@ -1,8 +1,8 @@
 ---
 layout: Blog
 seo:
-  title: My Blog
-  description: Custom description for this page goes here
+  title: Wale Osborne Blog
+  description: Discover curated articles sharing my perspectives, experiences, and expertise in leadership and innovation.
 collection:
   path: /blog
   sortBy: date

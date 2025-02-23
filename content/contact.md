@@ -2,7 +2,8 @@
 layout: Contact
 seo:
   title: Contact Me
-  description: Custom description for this page goes here
+  description: Get in touch with Wale Osborne for inquiries about business leadership, organizational development, and investment strategies. Let's work together to create impactful solutions.
+
 ---
 
 
