@@ -53,9 +53,9 @@ export const menu = [
 
 export const social = [
   {
-    name: 'Twitter',
-    url: 'https://x.com/WaleOsborne',
-    Icon: IoLogoTwitter,
+    name: 'LinkedIn',
+    url: 'https://www.linkedin.com/in/olawale-osborne-oderinde',
+    Icon: IoLogoLinkedin,
   },
   {
     name: 'Instagram',
@@ -63,9 +63,9 @@ export const social = [
     Icon: IoLogoInstagram,
   },
   {
-    name: 'LinkedIn',
-    url: 'https://www.linkedin.com/in/olawale-osborne-oderinde',
-    Icon: IoLogoLinkedin,
+    name: 'Twitter',
+    url: 'https://x.com/WaleOsborne',
+    Icon: IoLogoTwitter,
   },
 ]
 
