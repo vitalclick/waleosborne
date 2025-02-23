@@ -1,23 +1,42 @@
-import TagCard from '@/components/TagCard'
-import BlogCardVertical from '@/components/BlogCardVertical'
-import ContentRenderer from '@/components/ContentRenderer'
-import Paging from '@/components/Paging'
-import useInfinitePaging from '@/components/useInfinitePaging'
-import Newsletter from '@/components/Newsletter'
-import Reveal from '@/components/Reveal'
-import Sep from '@/components/Sep'
+import Head from 'next/head'; // Import Next.js Head component
+import TagCard from '@/components/TagCard';
+import BlogCardVertical from '@/components/BlogCardVertical';
+import ContentRenderer from '@/components/ContentRenderer';
+import Paging from '@/components/Paging';
+import useInfinitePaging from '@/components/useInfinitePaging';
+import Newsletter from '@/components/Newsletter';
+import Reveal from '@/components/Reveal';
+import Sep from '@/components/Sep';
 
 const Layout = ({ pagination, collection, slug, content, categories }) => {
-  const { records, infinitePaging } = collection
-  const { currentPage, totalPages } = pagination
+  const { records, infinitePaging } = collection;
+  const { currentPage, totalPages } = pagination;
   const [infiniteRecords] = useInfinitePaging({
     currentPage,
     records,
     enabled: infinitePaging,
-  })
+  });
+
+  // Define default OG metadata for the blog listing page
+  const pageTitle = 'Blog | Your Website Name'; // Customize this
+  const pageDescription = 'Explore our latest blog posts and insights.'; // Customize this
+  const featuredImageUrl = 'https://yourdomain.com/images/default-blog-image.jpg'; // Absolute URL to a default image
+  const pageUrl = `https://yourdomain.com/${slug.join('/')}`; // Dynamic URL based on slug
 
   return (
     <div className="mx-auto w-full">
+      {/* Add Head component for Open Graph tags */}
+      <Head>
+        <title>{pageTitle}</title>
+        <meta name="description" content={pageDescription} />
+        {/* Open Graph Meta Tags */}
+        <meta property="og:title" content={pageTitle} />
+        <meta property="og:description" content={pageDescription} />
+        <meta property="og:image" content={featuredImageUrl} />
+        <meta property="og:url" content={pageUrl} />
+        <meta property="og:type" content="website" />
+      </Head>
+
       <div className="prose prose-headings:mb-4 dark:prose-invert">
         {categories && (
           <>
@@ -56,12 +75,12 @@ const Layout = ({ pagination, collection, slug, content, categories }) => {
             )}
           </div>
           {Array.from({ length: currentPage }, (_, i) => {
-            const page = i + 1
-            const isStaticPage = page === currentPage
+            const page = i + 1;
+            const isStaticPage = page === currentPage;
             const pageRecords = isStaticPage
               ? records
-              : infinitePaging && infiniteRecords[page]?.records
-            if (!pageRecords) return null
+              : infinitePaging && infiniteRecords[page]?.records;
+            if (!pageRecords) return null;
             return (
               <div
                 key={`page-${page}`}
@@ -71,7 +90,7 @@ const Layout = ({ pagination, collection, slug, content, categories }) => {
                   <BlogCardVertical key={record.slug.join('/')} {...record} />
                 ))}
               </div>
-            )
+            );
           })}
           <Paging
             infinite={infinitePaging}
@@ -82,7 +101,7 @@ const Layout = ({ pagination, collection, slug, content, categories }) => {
         </div>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default Layout
+export default Layout;
