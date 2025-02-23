@@ -33,7 +33,8 @@ From the first transaction to today’s robust. Wema Bank is a name engraved in 
 
 **So, raise your voices, let praises soar,** For Wema Bank — eighty years and more! Not just a bank but a partner in dreams, A legacy woven in infinite streams.
 
-#### Here is to the future; here is to beyond, * *Wema Bank—steadfast and strong!
+**Here is to the future; here is to beyond, Wema Bank—steadfast and strong!**
+<br />
 
-Warmest regards,
-#### Ọgbẹni Olawale Osborne O.
+Warmest regards,<br />
+**Ọgbẹni Olawale Osborne O.**
