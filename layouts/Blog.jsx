@@ -18,10 +18,10 @@ const Layout = ({ pagination, collection, slug, content, categories }) => {
   });
 
   // Define default OG metadata for the blog listing page
-  const pageTitle = 'Blog | Your Website Name'; // Customize this
+  const pageTitle = 'Blog | Wale Osborne'; // Customize this
   const pageDescription = 'Explore our latest blog posts and insights.'; // Customize this
-  const featuredImageUrl = 'https://yourdomain.com/images/default-blog-image.jpg'; // Absolute URL to a default image
-  const pageUrl = `https://yourdomain.com/${slug.join('/')}`; // Dynamic URL based on slug
+  const featuredImageUrl = 'https://waleosborne.vercel.app/_next/image?url=%2Fphotos%2Fwale-osborne.jpg'; // Absolute URL to a default image
+  const pageUrl = `https://waleosborne.vercel.app/${slug.join('/')}`; // Dynamic URL based on slug
 
   return (
     <div className="mx-auto w-full">
