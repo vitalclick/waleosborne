@@ -2,7 +2,7 @@
 layout: Contact
 seo:
   title: Contact Me
-  description: Get in touch with Wale Osborne for inquiries about business leadership, organizational development, and investment strategies. Let's work together to create impactful solutions.
+  description: Get in touch with Olawale Osborne O. for inquiries about business leadership, organizational development, and investment strategies. Let's work together to create impactful solutions.
 
 ---
 
@@ -28,7 +28,7 @@ Use the form to initiate a partnership that drives success and transforms possib
 
   <Icon src="/icons/mail.svg" className="mr-2 inline align-middle fill-current text-omega-500" /> Email: hello@waleosborne.com
 
-  <Icon src="/icons/logo-linkedin.svg" className="mr-2 inline align-middle fill-current text-omega-500" /> Linkedin: ['Wale Osborne](https://www.linkedin.com/in/olawale-osborne-oderinde)
+  <Icon src="/icons/logo-linkedin.svg" className="mr-2 inline align-middle fill-current text-omega-500" /> Linkedin: ['Olawale Osborne O.](https://www.linkedin.com/in/olawale-osborne-oderinde)
 
   <Icon src="/icons/logo-twitter.svg" className="mr-2 inline align-middle fill-current text-omega-500" /> Twitter: [@WaleOsborne](https://x.com/WaleOsborne)
 </small>

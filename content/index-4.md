@@ -9,7 +9,7 @@ seo:
 slogan: Trusted By Fortune 500 Companies
 ---
 
-# *Wale Osborne*
+# *Olawale Osborne O.*
 
 ## <Typewriter>Full-Stack Developer</Typewriter>
 

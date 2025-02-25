@@ -1,14 +1,14 @@
 ---
 layout: About
 seo:
-  title: About Wale Osborne
-  description: Learn more about Wale Osborne, a seasoned business leader, investor, and identity leadership coach with decades of experience empowering organizations and individuals to achieve their goals.
+  title: About Olawale Osborne O.
+  description: Learn more about Olawale Osborne O., a seasoned business leader, investor, and identity leadership coach with decades of experience empowering organizations and individuals to achieve their goals.
 ---
 
 
 
 ---personal_info
-name: WALE OSBORNE
+name: Olawale Osborne O.
 images:
   - src: /about.jpg
     alt: my image

@@ -1,7 +1,7 @@
 ---
 layout: Home
 seo:
-  title: Wale Osborne
+  title: Olawale Osborne O.
   description: Entrepreneur | Investor | Advisor (Business Coach) | Strategist | Identity Leadership Coach
 ---
 
@@ -13,7 +13,7 @@ images:
     alt: my photo
 ---
 
-# <Typewriter>Wale Osborne</Typewriter>
+# <Typewriter>'Wale Osborne</Typewriter>
 
 # *Entrepreneur, Investor* <span>&</span> *Business Coach*
 

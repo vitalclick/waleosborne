@@ -113,10 +113,10 @@ export const mdxConfig = {
 
 export const siteMetaData = {
   siteUrl: process.env.NEXT_PUBLIC_SITE_URL || process.env.VERCEL_URL || 'http://localhost:3000',
-  authorName: 'Wale Osborne',
-  siteName: 'Wale Osborne',
-  defaultTitle: 'Wale Osborne Personal Site',
-  titleTemplate: 'Wale Osborne | %s',
+  authorName: 'Olawale Osborne O.',
+  siteName: 'Olawale Osborne O.',
+  defaultTitle: 'Olawale Osborne O. Personal Site',
+  titleTemplate: 'Olawale Osborne O. | %s',
   description: 'A short description goes here.',
   email: 'hello@example.com',
   locale: 'en_US',

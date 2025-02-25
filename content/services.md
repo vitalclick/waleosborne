@@ -2,7 +2,7 @@
 layout: Services
 seo:
   title: Services
-  description: Discover the range of professional services offered by Wale Osborne, including business leadership coaching, organizational strategy, financial advisory, and executive training to drive success
+  description: Discover the range of professional services offered by Olawale Osborne O., including business leadership coaching, organizational strategy, financial advisory, and executive training to drive success
 ---
 
 

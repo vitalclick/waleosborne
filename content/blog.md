@@ -1,7 +1,7 @@
 ---
 layout: Blog
 seo:
-  title: Wale Osborne Blog
+  title: Olawale Osborne O. Blog
   description: Discover curated articles sharing my perspectives, experiences, and expertise in leadership and innovation.
 collection:
   path: /blog

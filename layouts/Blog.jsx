@@ -18,7 +18,7 @@ const Layout = ({ pagination, collection, slug, content, categories }) => {
   });
 
   // Define default OG metadata for the blog listing page
-  const pageTitle = 'Blog | Wale Osborne'; // Customize this
+  const pageTitle = 'Blog | Olawale Osborne O.'; // Customize this
   const pageDescription = 'Explore our latest blog posts and insights.'; // Customize this
   const featuredImageUrl = 'https://waleosborne.vercel.app/photos/wale-osborne.jpg'; // Absolute URL to a default image
   const pageUrl = `https://waleosborne.vercel.app/${slug.join('/')}`; // Dynamic URL based on slug

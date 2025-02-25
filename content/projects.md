@@ -2,7 +2,7 @@
 layout: Achievements
 seo:
   title: Licenses & Certifications
-  description: Explore the professional certifications and licenses that highlight Wale Osborne's expertise in business leadership, organizational development, and strategic advisory
+  description: Explore the professional certifications and licenses that highlight Olawale Osborne O.'s expertise in business leadership, organizational development, and strategic advisory
 ---
 
 ---github

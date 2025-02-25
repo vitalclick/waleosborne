@@ -15,7 +15,7 @@ images:
     alt: my photo
 ---
 
-# <Typewriter>Wale Osborne</Typewriter>
+# <Typewriter>Olawale Osborne O.</Typewriter>
 
 # *Web Developer* <span>&</span> *Growth Consultant*
 
